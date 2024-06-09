@@ -1,4 +1,4 @@
-# React useOllama hook
+# useOllama
 
 A custom hook that allows you to use the Ollama API in your React project.
 
@@ -9,6 +9,8 @@ npm install use-ollama
 ```
 
 ## API
+
+For more information on the Ollama API, visit the [Ollama API documentation](https://github.com/ollama/ollama/blob/main/docs/api.md).
 
 ```jsx
 <OllamaProvider

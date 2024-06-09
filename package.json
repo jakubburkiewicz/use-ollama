@@ -1,6 +1,6 @@
 {
     "name": "use-ollama",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A custom hook that allows you to use the Ollama API in your React project.",
     "keywords": [
         "react",
